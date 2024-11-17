@@ -1,3 +1,9 @@
+# This was made by Ibought2xchancehaha
+Note: This will break some things
+
+Last updated 11/17/2024
+
+# CursedBlox install here please
 # The worst roblox (bloxstrap) mod ever
 CURSEDBLOX!!!!!11
 
