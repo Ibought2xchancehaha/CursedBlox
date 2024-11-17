@@ -54,6 +54,13 @@ Click save
 
 # Congrats you officialy installed CursedBlox in roblox.
 
--# note: please dont actually install this
+
+
+
+
+
+
+
+note: please dont actually install this
 
 
