@@ -59,13 +59,12 @@ paste this in:
 
 Click save
 
-# Congrats you officialy installed CursedBlox in roblox.
-note: please dont actually install this
+# Congrats you officialy installed CursedBlox in roblox!
 
 # CREDITS
 
-1x4z  - Most of the code borrowed (https://github.com/1x4z/1)|
-Ibought2xchancehaha - The creator of the mod, yes|
+1x4z  - Most of the code borrowed (https://github.com/1x4z/1) |
+Ibought2xchancehaha - The creator of the mod, yes 
 PizzaBoxer - Creator of bloxstrap
 
 # Thanks if you installed!
