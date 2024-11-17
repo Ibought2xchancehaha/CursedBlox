@@ -53,6 +53,7 @@ paste this in:
   "DFFlagSimHumanoidPhysics": "True"
 }
 ```
+(If bloxstrap gives you a warning about the code, dont mind it. Its just because the code is too big.)
 
 # STEP FOUR
 
