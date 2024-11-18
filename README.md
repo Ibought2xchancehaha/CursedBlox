@@ -1,7 +1,7 @@
 # This was made by Ibought2xchancehaha
 Note: This will break some things
 
-Last updated 11/17/2024
+Last updated 11/18/2024
 
 # CursedBlox install here please
 # The worst roblox (bloxstrap) mod ever
@@ -11,7 +11,7 @@ CURSEDBLOX!!!!!11
 
 # STEP ONE
 
-Download Bloxstrap here:
+Download Bloxstrap here: (If you already have bloxstrap skip this step)
 https://bloxstrap.org
 
 # STEP TWO
