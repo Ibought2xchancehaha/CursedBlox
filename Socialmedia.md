@@ -6,4 +6,4 @@ https://www.youtube.com/@ibought2xchancehaha
 Twitter:
 https://x.com/Ibought2xchance
 
-# thanks.
+# thanks
